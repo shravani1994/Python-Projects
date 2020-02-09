@@ -1,1 +1,4 @@
-
+Implemented the hashing algorithm where the program reads input data file into a hash table using non linear leaping or linked list methods.
+It deletes/searches the data in hash table based on data from second file.
+Finally, it outputs the results into a final file.
+Command line arguments are used for the data.
