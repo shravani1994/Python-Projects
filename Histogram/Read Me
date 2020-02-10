@@ -1,1 +1,6 @@
+Creates a histogram of the data using Matplotlib.
+The data file name is given as a command line argument.
+It also display the minimum, maximum and the mean of the data.
+The figures contain two text objects and one arrow object.
+
 
