@@ -1,0 +1,6 @@
+A two layer artificial neural network is built and used to predict the correct identity of the characters in the
+hafxy.pbm images. 
+A sigmoid activation function is used. 
+My program accepts one of the images in as a command line argument, and prints the predicted classification of the
+image (H, A, F, X, or Y). 
+Optimal weights are obtained by training the neural network and the weights are saved, which helps me in predicting the given letter of the image.
