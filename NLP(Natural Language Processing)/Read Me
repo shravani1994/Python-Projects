@@ -1,0 +1,2 @@
+The following project is about Natural language processing and using threegrams and twograms.
+The threegrams and twograms are used to parse sentences and words, and gives us the most frequent pair of threegrams and twograms in text files.
