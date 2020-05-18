@@ -1,0 +1,5 @@
+• Collected reviews from different websites and parsed the XML files using beautiful soup to get the review text.
+• Performed Sentiment analysis using stop words and generated two grams of the review text.
+• Built the training data by analyzing different reviews, generated two grams and analyzed each two grams.
+• Handled contractions, spelling errors and consider alternative approaches to compute the overall value of review.
+• Predicted whether the review is positive or negative.
